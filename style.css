@@ -162,7 +162,9 @@ button{
   margin-bottom: 20px;
   color: var(--text-color);
 }
-
+.card-list{
+  color: var(--text-color);
+}
 
 @media screen and (max-width: 1000px) {
   .button-69 {
