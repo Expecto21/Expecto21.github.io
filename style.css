@@ -96,6 +96,9 @@ button{
   cover; 
   object-position: 0 100%;
 }
+.social-icons{
+ 
+}
 @media screen and (max-width:768px){
   .bio-container{
     grid-template-columns: 1fr;
