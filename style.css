@@ -118,6 +118,18 @@ button{
 .gmail :hover{
   color:#de5044;
 }
+.facebook :hover{
+  color:#3a579e;
+}
+.discord{
+  size: 3x;
+}
+.instagram :hover{
+  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
 @media screen and (max-width:768px){
   .bio-container{
     grid-template-columns: 1fr;
