@@ -28,6 +28,7 @@ nav{
   color: var(--text-color);
   justify-content: space-between;
   align-items: center;
+  font-weight:900;
   padding:0rem calc((100vw - 1300px)/2)
 }
 
